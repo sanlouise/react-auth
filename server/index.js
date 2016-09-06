@@ -1,6 +1,6 @@
 import express from 'express';
 import path from 'path';
-import webback from 'webpack';
+import webpack from 'webpack';
 import webpackMiddleware from 'webpack-dev-middleware';
 import webpackConfig from '../webpack.config.dev';
 
